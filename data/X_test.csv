@@ -1,0 +1,11 @@
+days_between_booking_arrival,map_type,customer_type,black_list,repeated_guest,breakfast,num_adults,map_deposit_policy,market_segment_1,market_segment_2,market_segment_3,market_segment_4,market_segment_5,market_segment_6,market_segment_7
+0.2293080054274084,0,2,0,0,True,2,1,0,0,0,0,1,0,0
+0.06784260515603799,1,0,0,0,True,2,0,0,0,0,0,0,0,0
+0.2293080054274084,1,0,0,0,True,2,2,0,0,1,0,0,0,0
+0.0027137042062415195,0,0,0,0,True,1,0,0,1,0,0,0,0,0
+0.14246947082767977,1,0,0,0,True,3,0,0,1,0,0,0,0,0
+0.11940298507462685,1,0,0,0,True,2,0,0,0,0,0,0,0,0
+0.0,1,0,0,0,True,2,0,0,1,0,0,0,0,0
+0.08005427408412483,1,0,0,0,True,2,2,0,0,0,0,1,0,0
+0.37584803256445043,0,0,0,0,True,2,0,0,1,0,0,0,0,0
+0.09226594301221167,0,0,0,0,False,2,0,0,0,1,0,0,0,0
